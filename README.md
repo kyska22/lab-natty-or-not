@@ -15,9 +15,7 @@ Google Docs
 
 ## 🧐 Processo de Criação
 
-
-
-
+Um projeto de e-book é feito para explicar as 7 camadas do modelo OSI, ferramentas de IA são usadas, o ChatGPT é usado para pesquisa e criação do conteúdo do e-book, o LeonardoAI é usado para a criação das imagens e, finalmente, o processador de texto do Google Docs é usado para editar o documento e compartilhá-lo.
 
 ## 🚀 Resultados
 
